@@ -1,2 +1,6 @@
-# Jogo-da-cobrinha-
-  O jogo da cobrinha é um jogo que marcou a infância de muitas pessoas, e com um código simples e algumas aulas no youtube consegui cria-lo com html
+# Jogo da Cobrinha 🐍
+##### O jogo da cobrinha nasceu em 1997 no celular Nokia 6110. Em uma versão bem primária do jogo, em que a cobrinha era apenas uma linha na tela que ia se expandindo ao coletar pequenos quadrados. 
+##Escolhi como meu primeiro projeto por ter marcado minha infância e feito eu me apaixonar por jogos e tecnologia!
+
+
+![imagem](hhttps://raw.githubusercontent.com/laisfrigerio/js-snake-game/master/screenshot/snake-game-pause.png)
