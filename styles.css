@@ -1,0 +1,11 @@
+#score{
+    width: 230px;
+    height: 600px;
+    float: left;
+    background-color: aqua;   
+}
+#score p{    
+    line-height: 60px;
+    text-align: center;
+    font-size: 40px;
+}
