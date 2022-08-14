@@ -83,16 +83,18 @@
                             ay = Math.floor(Math.random()*qp); /*A coordenada y do alimento recebe
                             valor aleatório Vezes de posições existentes*/
 
-                            pontuacao();
+                            pontuacao(); //Chamando a função de pontuação.
                             
                         }
                     }
 
-                    function pontuacao(){
+                    function pontuacao(){ // Função de pontuação.
                         
-                        npontos = calda - 4;
-                        var pontos = document.querySelector("#pontos");                                                    
-                            pontos.textContent = npontos;
+                        npontos = calda - 4; // a variavel "nponto" recebe o tamanho da calda -4
+                        var pontos = document.querySelector("#pontos");/* a var pontos recebe o elemento                                                    
+                        #pontos selecionado no html*/ 
+                            pontos.textContent = npontos; /*O elemento pontos recebe novo valor
+                        da variáve npontos */
                     }
 
                     function zero(){
@@ -123,7 +125,6 @@
                         }
                     }            
                 }
-            </script>
-            
+            </script>            
     </body>
 </html>
